@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/NgDotnet/DesignTimeBuild
+/.vs/NgDotnet/FileContentIndex
+/.vs/NgDotnet/v17
+/.vs/ProjectEvaluation
+/.vs/NgDotnet/config
+/NgDotnet/ClientApp/.angular/cache/14.0.3
